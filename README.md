@@ -2,8 +2,7 @@
 # Codex-AIT-Pune
 This repository contains our AI-MlL model Project.
 =======
-# inter-iiit
-<<<<<<< HEAD
+
 # my-project
 =======
 # Clinical RAG System �
