@@ -1,0 +1,12 @@
+# Clinical RAG System - FREE Version
+# 100% Local - No OpenAI Required!
+# Cost: $0.00 forever
+
+# Core dependencies
+chromadb>=0.4.18
+sentence-transformers>=2.2.2
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Optional but recommended
+numpy>=1.24.0

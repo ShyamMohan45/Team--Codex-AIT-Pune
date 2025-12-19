@@ -1,0 +1,38 @@
+# Environment variables (contains API keys!)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+ENV/
+
+# ChromaDB
+chroma_db/
+*.db
+*.sqlite3
+
+# Output files
+output_*.json
+clinical_rag_output.json
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
