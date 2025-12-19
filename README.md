@@ -2,7 +2,8 @@
 # Codex-AIT-Pune
 This repository contains our AI-MlL model Project.
 =======
-# inter-iiit
+# Innerve X: India’s Largest Student Driven Hackathon
+Army Institute of Technology (AIT), Pune
 <<<<<<< HEAD
 # my-project
 =======
